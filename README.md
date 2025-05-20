@@ -10,7 +10,7 @@
 
 <div align="center">
   <!-- Banner Image -->
-<!--   <img src="https://4kwallpapers.com/images/wallpapers/coder-amoled-black-3440x1440-13668.png" alt="Header Banner" width="100%"/> -->
+<!--   <img src="https://4kwallpapers.com/images/wallpapers/coder-amoled-black-3440x1440-13668.png" alt="Header Banner" width="200%"/> -->
   
   <!-- Profile Image -->
   <img src="https://avatars.githubusercontent.com/u/212521090?v=4" alt="Profile Photo" width="200" style="border-radius: 50%; border: 5px solid #5C7AFF; margin-top: -100px;"/>
