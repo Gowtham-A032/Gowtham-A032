@@ -32,17 +32,17 @@ I'm a passionate technologist with expertise in Python development, IoT systems,
 
 ### **Core Technologies**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,embeddedc,python" />
+  <img src="https://skillicons.dev/icons?i=c,linux,embedded c,python" />
 </div>
 
 ### **IoT & Hardware**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,azure,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=microcontroller8051,lpc1768,arduino" />
 </div>
 
 ### **Frameworks & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,bootstrap,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,keil,proteus,git,github" />
 </div>
 
 ---
