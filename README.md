@@ -32,7 +32,7 @@ I'm a passionate technologist with expertise in Python development, IoT systems,
 
 ### **Core Technologies**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=c,linux,embeddedc,python" />
 </div>
 
 ### **IoT & Hardware**
