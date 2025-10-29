@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm [GOWTHAM A]</h1>
 <h3 align="center">Embedded Systems Engineer | C/C++ Developer | Hardware Designer</h3>
 
 <p align="center">
