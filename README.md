@@ -5,7 +5,7 @@
 # Hello, I'm Gowtham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=5C7AFF&center=true&vCenter=true&width=500&lines=Python+Developer;IoT+Specialist;Full-Stack+Developer;Database+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=5C7AFF&center=true&vCenter=true&width=500&lines=Embedded engineer;IoT+Specialist;c Developer;c++ developer;Hardware engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
